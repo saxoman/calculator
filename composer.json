@@ -1,0 +1,12 @@
+{
+    "name": "saxoman/calculator",
+    "description": "Basic calculations!",
+    "authors": [
+        {
+            "name": "Saša Jović",
+            "email": "jovicsasajovic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
